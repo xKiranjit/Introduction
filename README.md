@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kiran has worked in logistics, shipping/administration. I have self-taught myself coding, hosting games, and computer hardware, and I finish IT course in ITE college west!
+- 👋 Hi, I’m Kiran. I have self-taught myself coding, hosting games, and computer hardware, and I finish IT course in ITE college west!
 
 - 👀 I’m interested in Programming & Network
 - 🌱 I’m currently learning IT Programming & Network
